@@ -1,6 +1,8 @@
 <html>
   <head>
-    <title>This is linked with dolmangksun.github.io.</title>
+    <title>
+      This is linked with dolmangksun.github.io.
+    </title>
     <h1>hi</h1>
   </head>
   <body>
