@@ -7,3 +7,7 @@ _hmm**isthisbo_ld**ohoh_<br>
 <br>:trollface:
 <br>~~this is croosed~~
 <br>\PAFF/\PAFF/\PAFF/
+* item 1
+* item 2
+* item 2a
+* item 2b
